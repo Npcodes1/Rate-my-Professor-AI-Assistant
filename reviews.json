@@ -1,0 +1,119 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Johnson is incredibly knowledgeable and makes complex topics easy to understand."
+      },
+      {
+        "professor": "Prof. Mark Smith",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great professor! He explains concepts clearly but can be a bit strict on deadlines."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "The lectures are interesting, but the exams are quite challenging."
+      },
+      {
+        "professor": "Prof. John Brown",
+        "subject": "History",
+        "stars": 5,
+        "review": "Engaging lectures and a great storyteller. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "Physics",
+        "stars": 2,
+        "review": "Knowledgeable but not very approachable. Could improve on communication."
+      },
+      {
+        "professor": "Prof. Michael Lee",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Very helpful and always available for questions. Projects are fun!"
+      },
+      {
+        "professor": "Dr. Jessica Taylor",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Passionate about the subject and encourages class participation."
+      },
+      {
+        "professor": "Prof. David Martinez",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Good content but the pace can be slow at times."
+      },
+      {
+        "professor": "Dr. Laura Anderson",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Great discussions and insights into the texts we read."
+      },
+      {
+        "professor": "Prof. Kevin Thomas",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Thought-provoking lectures that challenge your thinking."
+      },
+      {
+        "professor": "Dr. Angela White",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Very engaging and makes the subject relevant to current events."
+      },
+      {
+        "professor": "Prof. Brian Harris",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Interesting material but the lectures can be a bit dry."
+      },
+      {
+        "professor": "Dr. Nancy Clark",
+        "subject": "Statistics",
+        "stars": 5,
+        "review": "Best professor I've had! Makes statistics fun and applicable."
+      },
+      {
+        "professor": "Prof. Charles Lewis",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Content is good, but the delivery is lacking."
+      },
+      {
+        "professor": "Dr. Lisa Robinson",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Very passionate about the subject and encourages fieldwork."
+      },
+      {
+        "professor": "Prof. Steven Walker",
+        "subject": "Business",
+        "stars": 3,
+        "review": "Good insights but could use more real-world examples."
+      },
+      {
+        "professor": "Dr. Karen Hall",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Incredible teacher! Makes math enjoyable and understandable."
+      },
+      {
+        "professor": "Prof. Timothy Young",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Great at explaining difficult concepts, but the homework is tough."
+      },
+      {
+        "professor": "Dr. Rachel King",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Very engaging and supportive. Always willing to help students."
+      }
+    ]
+  }
+  
